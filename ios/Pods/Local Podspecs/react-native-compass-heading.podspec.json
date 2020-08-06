@@ -1,0 +1,25 @@
+{
+  "name": "react-native-compass-heading",
+  "version": "1.0.0",
+  "summary": "TODO",
+  "description": "react-native-compass-heading",
+  "homepage": "https://github.com/firofame/react-native-compass-heading",
+  "license": "MIT",
+  "authors": {
+    "Your Name": "firofame@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/firofame/react-native-compass-heading.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "ios/**/*.{h,m,swift}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

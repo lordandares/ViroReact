@@ -1,0 +1,1 @@
+../../../UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/ios/UAInAppMessagingRemoteConfig+Internal.h

@@ -1,0 +1,3 @@
+#!/bin/sh
+cp "${SRCROOT}/${GOOGLE_SERVICE_FILE}.plist" "${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleService-Info.plist"
+

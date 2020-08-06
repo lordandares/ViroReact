@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "269902830085",
+    "firebase_url": "https://riyadh-season.firebaseio.com",
+    "project_id": "riyadh-season",
+    "storage_bucket": "riyadh-season.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269902830085:android:011437a28b057879a41a6c",
+        "android_client_info": {
+          "package_name": "com.saudi.riyadh.seasons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269902830085-stv2a6hhe4voqftvg0am0lplch4uifmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx20mzUAoWVGAl_ZTmKYIek1IW_Bbk4kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269902830085-stv2a6hhe4voqftvg0am0lplch4uifmc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "269902830085-fhsk0lcn40up8n8f5khgpqlnubujfk4r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sa.riyadh.season",
+                "app_store_id": "1481514428"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

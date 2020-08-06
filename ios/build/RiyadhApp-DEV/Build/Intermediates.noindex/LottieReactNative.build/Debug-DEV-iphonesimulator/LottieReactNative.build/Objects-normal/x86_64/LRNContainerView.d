@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/node_modules/lottie-react-native/src/ios/LottieReactNative/LRNContainerView.m \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/node_modules/lottie-react-native/src/ios/LottieReactNative/LRNContainerView.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/React/RCTView.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/React/RCTComponent.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/Lottie/Lottie.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/Lottie/LOTAnimationTransitionController.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/Lottie/LOTAnimatedSwitch.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/Lottie/LOTAnimatedControl.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/Lottie/LOTCacheProvider.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/Lottie/LOTAnimationView.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/Lottie/LOTAnimationView_Compat.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/Lottie/LOTComposition.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/Lottie/LOTKeypath.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/Lottie/LOTValueDelegate.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/Lottie/LOTAnimationCache.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/Lottie/LOTBlockCallback.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/Lottie/LOTInterpolatorCallback.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/Lottie/LOTValueCallback.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/React/UIView+React.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/yoga/YGMacros.h

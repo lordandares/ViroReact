@@ -1,0 +1,1 @@
+../../../UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UAAutomationStore+Internal.h

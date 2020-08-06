@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingClient.m \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingClient.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseMessaging/Firebase/Messaging/Public/FIRMessaging.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/FirebaseInstanceID/FIRInstanceID_Private.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/FirebaseInstanceID/FIRInstanceID.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/GoogleUtilities/GULReachabilityChecker.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingConnection.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingConstants.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDataMessageManager.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDefines.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingLogger.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMMessageCode.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingRmqManager.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingTopicsCommon.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingUtilities.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseMessaging/Firebase/Messaging/NSError+FIRMessaging.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingPubSubRegistrar.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingTopicOperation.h

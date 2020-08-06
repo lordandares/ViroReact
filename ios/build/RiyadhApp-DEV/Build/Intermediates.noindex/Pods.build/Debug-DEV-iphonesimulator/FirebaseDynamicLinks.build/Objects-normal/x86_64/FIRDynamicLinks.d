@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDynamicLinks.m \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/Public/FIRDynamicLinks.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/Public/FIRDynamicLink.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/Public/FIRDynamicLinksCommon.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/FirebaseAnalyticsInterop/FIRAnalyticsInterop.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/FirebaseCore/FIRAppInternal.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/FirebaseCore/FIRErrors.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/FirebaseCore/FIRErrorCode.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/FirebaseCore/FIRComponent.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/FirebaseCore/FIRComponentContainer.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/FirebaseCore/FIRComponentType.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/FirebaseCore/FIRLibrary.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/FirebaseCore/FIRDependency.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/FirebaseCore/FIROptionsInternal.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/FirebaseCore/FIROptions.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDLScionLogging.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FDLURLComponents/FDLURLComponents+Private.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/Public/FDLURLComponents.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDLRetrievalProcessFactory.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDLRetrievalProcessProtocols.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDLRetrievalProcessResult.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDynamicLink+Private.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDynamicLinkNetworking.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDynamicLinks+FirstParty.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDynamicLinks+Private.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/Logging/FDLLogging.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/Utilities/FDLUtilities.h

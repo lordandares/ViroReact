@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDelayedMessageQueue.m \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDelayedMessageQueue.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseMessaging/Firebase/Messaging/Protos/GtalkCore.pbobjc.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/Protobuf/GPBProtocolBuffers.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/Protobuf/GPBBootstrap.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/Protobuf/GPBArray.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/Protobuf/GPBRuntimeTypes.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/Protobuf/GPBCodedInputStream.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/Protobuf/GPBCodedOutputStream.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/Protobuf/GPBWireFormat.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/Protobuf/GPBDescriptor.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/Protobuf/GPBDictionary.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/Protobuf/GPBExtensionRegistry.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/Protobuf/GPBMessage.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/Protobuf/GPBRootObject.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/Protobuf/GPBUnknownField.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/Protobuf/GPBUnknownFieldSet.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/Protobuf/GPBUtilities.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/Protobuf/GPBWellKnownTypes.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/protobuf/Any.pbobjc.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/protobuf/GPBDescriptor.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/protobuf/GPBMessage.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/protobuf/GPBRootObject.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/protobuf/Duration.pbobjc.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/protobuf/Timestamp.pbobjc.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/protobuf/Api.pbobjc.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/protobuf/Empty.pbobjc.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/protobuf/FieldMask.pbobjc.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/protobuf/SourceContext.pbobjc.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/protobuf/Struct.pbobjc.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/protobuf/Type.pbobjc.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Headers/Private/protobuf/Wrappers.pbobjc.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDefines.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingRmqManager.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingUtilities.h

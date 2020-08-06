@@ -1,0 +1,1 @@
+../../../UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/ios/UAInboxMessage+Internal.h

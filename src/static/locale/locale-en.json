@@ -1,0 +1,176 @@
+{
+  "GREETINGS_COPY": "Hi {name}",
+  "CHANGE_LANGUAGE_COPY": "Change language",
+  "COST": "Cost",
+  "SIMPLE_TITLE": "Change language {name}",
+  "SEARCH_MAP_RESULT_TITLE": "{number} Results for {name}",
+  "SEARCH_CATEGORY_RESULT_SUBTITLE": "For {name}",
+  "SEARCH_CATEGORY_RESULT_TITLE": "{number} Results",
+  "WELCOME_TO": "Welcome to",
+  "APP_NAME": "Explore\nRiyadh Season",
+
+  "STARTING_ENDING_DATES": "Oct 11 - Dec 22",
+
+  "SEE_ALL_FESTIVITIES": "Explore All Events",
+  "VIEW_MORE": "What Else?",
+
+  "YOUR_FESTIVITIES": "Your Favorites",
+  "FESTIVITIES": "Festivities",
+  "NEAR_YOU": "Near You",
+  "TASTE": "Taste",
+  "ACTIVITIES": "Activities",
+  "FESTIVITIES_NEAR_YOU": "Nearby Events",
+  "RECOMMENDED_FOR_YOU": "Chosen for you",
+  "TODAY_TOP_FESTIVITIES": "Today's Top Events",
+  "SIMILAR_ACTIVITIES": "Similar Events",
+
+  "SEARCH": "Search",
+  "EXPLORE_NEARBY": "What's Nearby",
+
+  "EVENT_ABOUT": "About The Event",
+  "EVENT_DATES": "Dates",
+  "EVENT_HOURS": "Hours",
+  "EVENT_COST": "Cost",
+  "EVENT_AMENITIES": "Amenities",
+  "EVENT_ZONE": "Zone",
+  "VIEW_ALL": "View All",
+
+  "ENTER_TERM_SEARCH_ACTIVITIES": "Search for your desired event",
+  "NO_RESULT_FOUND_MESSAGE": "Sorry! Nothing found",
+  "LIVE_SHOWS": "Live Shows",
+  "FESTIVALS": "Festivals",
+  "GAMING": "Gaming",
+  "SHOWS_AND_PERFORMANCE": "Shows and Performance",
+  "ENTERTAINMENT_ACTIVITIES": "Entertainment Activities",
+  "EXHIBITIONS_AND_BUSINESS": "Exhibitions and Business",
+  "RESTAURANTS": "Restaurants",
+
+  "FAVORITES": "Favorites",
+  "FAVORITES_EMPTY_TITLE": "Add your favorite Riyadh Season events!",
+  "FAVORITES_EMPTY_SUBTITLE": "Tap the heart button to add the event to your list",
+
+  "UPCOMING_RESERVATIONS": "Your Reservations",
+
+  "SKIP": "Skip",
+
+  "WELCOME_TO_RIYADH": "Welcome to Riyadh Season",
+  "OFFICIAL_GUIDE": "Your official guide to explore all Riyadh Season events, restaurants and shows.",
+  "DISCOVER": "Explore",
+
+  "ENABLE_LOCATION": "Enable Location",
+  "APP_USES_LOCATION": "This app uses your location to help you navigate and reach us on time!",
+  "PHONE_WILL_REQUEST_LOCATION": "Your phone will request to allow location sharing when the app is in use. Tap \"allow\".",
+  "CONTINUE": "Go Ahead",
+
+  "TURN_NOTIFICATIONS": "Turn On Notifications",
+  "APP_USES_NOTIFICATIONS": "This app uses push notifications for event information and your favorite events",
+  "PHONE_WILL_REQUEST_NOTIFICATIONS": "Your phone will request to turn on push notifications. Tap \"allow\".",
+
+  "YOUR_PERSONALIZED_LIST": "Your Plan for Riyadh Season ",
+  "FROM_TICKETS_TO_SHOW": "From tickets to shows, concerts and restaurants reservations, add all you want to your favorite list.",
+
+  "EXPLORE_RIYADH": "Explore Riyadh",
+  "EXPLORE_RIYADH_OFFER": "Unleash your excitement and explore Riyadh Season events through your phone",
+
+  "ENTER_AS_GUEST": "Be our guest",
+
+  "EMAIL_PLACEHOLDER": "Email",
+  "PASSWORD_PLACEHOLDER": "Password",
+  "FIRST_NAME_PLACEHOLDER": "First name",
+  "LAST_NAME_PLACEHOLDER": "Last name",
+  "GENDER_PLACEHOLDER": "Gender",
+  "AGE_RANGE_PLACEHOLDER": "Age",
+  "PHONE_PLACEHOLDER": "Phone number",
+  "REPEAT_PASSWORD_PLACEHOLDER": "Repeat the password",
+  "NEW_PASSWORD_PLACEHOLDER": "New Password",
+  "REPEAT_NEW_PASSWORD_PLACEHOLDER": "Repeat new password",
+
+  "INVALID_EMAIL": "Invalid email",
+  "INVALID_PASSWORD": "Invalid password",
+  "INVALID_FIRST_NAME": "Invalid first name",
+  "INVALID_LAST_NAME": "Invalid last name",
+  "INVALID_GENDER": "Invalid gender",
+  "INVALID_AGE_RANGE": "Invalid age",
+  "INVALID_PHONE": "Invalid phone number",
+  "INVALID_REPEAT_PASSWORD": "Passwords don't match",
+
+  "EMAIL_REQUIRED": "Email is required",
+  "PASSWORD_REQUIRED": "Password is required",
+  "FIRST_NAME_REQUIRED": "First name is required",
+  "LAST_NAME_REQUIRED": "Last name is required",
+  "GENDER_REQUIRED": "Gender is required",
+  "AGE_RANGE_REQUIRED": "Age is required",
+  "PHONE_REQUIRED": "Phone number is required",
+  "REPEAT_PASSWORD_REQUIRED": "This value is required",
+
+  "DONT_HAVE_ACCOUNT": "You're missing out on lots of fun! Register now",
+  "SIGN_UP": "Sign Up",
+
+  "NEXT": "Thank you next",
+
+  "ACCOUNT_ERROR": "Oops! Account Error",
+  "SIGN_IN_ERROR_BECAUSE_OF_CREDENTIALS": "Oops! There was an error with your email or password. Please try again",
+
+  "SELECT": "Select",
+  "MALE": "Male",
+  "FEMALE": "Female",
+
+  "BELOW_15": "Below 15 years old",
+  "BETWEEN_15_25": "Between 15 & 25 years old",
+  "BETWEEN_26_40": "Between 26 & 40 years old",
+  "BETWEEN_41_55": "Between 41 & 55 years old",
+  "ABOVE_55": "Above 55 years old",
+
+  "FINISH": "Done",
+  "PICK_INTERESTS_TITLE": "What about your interest?\nPick your favorites",
+
+  "SETTINGS": "Settings",
+  "SETTINGS_NOTIFICATIONS_TITLE": "Notifications",
+  "SETTINGS_NOTIFICATIONS_SUBTITLE": "Thanks! Push notifications enabled",
+  "SETTINGS_PRIVACY_LABEL": "Privacy",
+  "SETTINGS_LOCATION_TITLE": "Location",
+  "SETTINGS_LOCATION_SUBTITLE": "While using",
+  "SETTINGS_PRIVACY_POLICY_BUTTON": "Privacy Policy",
+  "SETTINGS_TERMS_BUTTON": "Terms and Conditions",
+  "SETTINGS_LOG_OUT_BUTTON": "Log Out",
+  "SETTINGS_LOG_IN_BUTTON": "Login",
+  "SETTINGS_SIGN_UP_BUTTON": "Register",
+  "SETTINGS_EDIT_PROFILE": "Edit Profile",
+  "SETTINGS_PROFILE_CARD_TITLE": "Access Your Account",
+  "SETTINGS_PROFILE_CARD_BODY": "Log in with your account to easily save and access your favorite events.",
+
+  "SAVE": "Save",
+  "YOUR_RATING": "Your Rating",
+  "YOUR_RATING_MESSAGE": "With how many stars would you rate us?",
+
+  "FORGOT_PASSWORD": "Forgot password?",
+  "MUST_CONTAIN_PASSWORD": "Must contain at least 7 characters",
+  "ENTER_6_DIGIT_CODE": "Please enter your 6 digit code",
+  "EVENT_SPONSORED": "Sponsored by",
+  "EVENT_AUDIENCE": "Audience",
+  "EVENT_KIDS": "Kids",
+  "EVENT_KIDS_ALLOWED": "Allowed",
+  "EVENT_KIDS_NOT_ALLOWED": "Not Allowed",
+  "EVENT_SPECIAL_NOTES": "Special notes",
+  "EVENT_TICKETS": "Tickets",
+  "EVENT_TICKETS_ONLINE": "Online Tickets",
+  "EVENT_TICKETS_ON_GATE": "Tickets on gate",
+  "EVENT_TICKETS_KIOSK": "Find Ticket Kiosk",
+
+  "WE_ARE_SORRY": "We are sorry",
+  "UNEXPECTED_ERROR_OCCURRED": "Oops! an unexpected error has occurred",
+  "RETRY": "Retry",
+
+  "ERROR": "Error",
+  "UNEXPECTED_ERROR_OCCURRED_TRY_AGAIN": "Oops! an unexpected error has occurred, please try again",
+
+  "ACCOUNT_ALREADY_CREATED": "Oops! An account has already been created using this email",
+  "SOMETHING_WENT_WRONG_TRY_AGAIN": "Oops! Something went wrong, please try again",
+  "ALL": "All",
+
+  "FAVORITES_LOGGED_OUT_TITLE": "Log in to add your favorite Riyadh Season activities",
+  "FAVORITES_LOGGED_OUT_SUBTITLE": "Don't have an account? Sign up to easily save and access your favorite activities",
+  "ACCOUNT_LOGIN": "Login or Register",
+  "ACCOUNT_REGISTER": "Register",
+  "TODAY": "Today"
+}

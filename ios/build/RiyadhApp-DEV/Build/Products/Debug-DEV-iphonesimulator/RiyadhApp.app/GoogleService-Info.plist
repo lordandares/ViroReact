@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>374698685552-tk71c7hgcdd2j37cuk2v7k78ijvttbn0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.374698685552-tk71c7hgcdd2j37cuk2v7k78ijvttbn0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>374698685552-ihm9pnq3k1eohd18mj5htgq80p8k0b89.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAY1hTxV-L7HQ6vFIuNEQ2NDz7FnfP6LKg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>374698685552</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>sa.riyadh.season.dev</string>
+	<key>PROJECT_ID</key>
+	<string>riyadh-season-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>riyadh-season-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:374698685552:ios:1a27ffe6f6f36b36b5f0b5</string>
+	<key>DATABASE_URL</key>
+	<string>https://riyadh-season-dev.firebaseio.com</string>
+</dict>
+</plist>

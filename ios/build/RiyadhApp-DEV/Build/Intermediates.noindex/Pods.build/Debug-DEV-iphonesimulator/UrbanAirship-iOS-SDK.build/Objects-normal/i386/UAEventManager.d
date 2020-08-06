@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UAEventManager.m \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/Target\ Support\ Files/UrbanAirship-iOS-SDK/UrbanAirship-iOS-SDK-prefix.pch \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UAEventManager+Internal.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UAPreferenceDataStore+Internal.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UAPreferenceDataStore.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UAEventStore+Internal.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UAEventData+Internal.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UAAsyncOperation+Internal.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UAEventAPIClient+Internal.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UAAPIClient+Internal.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UARuntimeConfig.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UAGlobal.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UARequest+Internal.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UADisposable.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UARequestSession+Internal.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UAEvent+Internal.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UAEvent.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UAPush.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UAirship.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UAJavaScriptDelegate.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UALocationProviderDelegate.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UAWhitelist.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UAirshipVersion.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UAConfig.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UANamedUser.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UAComponent.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UANotificationContent.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UANotificationResponse.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UANotificationAction.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/NSOperationQueue+UAAdditions.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/Pods/UrbanAirship-iOS-SDK/AirshipKit/AirshipKit/common/UADispatcher+Internal.h

@@ -1,0 +1,1 @@
+#define __RN_CONFIG_ENVIRONMENT  DEV

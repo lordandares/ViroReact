@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/node_modules/react-native-google-signin/ios/RNGoogleSignin/RNGoogleSignin.m \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/React/RCTLog.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/React/RCTAssert.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/React/RCTDefines.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/React/RCTUtils.h \
+  RNGoogleSignin/RNGoogleSignin.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/React/RCTConvert.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/yoga/Yoga.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/yoga/YGValue.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/include/React/RCTComponent.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/node_modules/react-native-google-signin/ios/../../../ios/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Modules/module.modulemap \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/node_modules/react-native-google-signin/ios/../../../ios/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDSignInButton.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/node_modules/react-native-google-signin/ios/../../../ios/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDSignIn.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/node_modules/react-native-google-signin/ios/../../../ios/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDProfileData.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/node_modules/react-native-google-signin/ios/../../../ios/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDGoogleUser.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/node_modules/react-native-google-signin/ios/../../../ios/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDAuthentication.h \
+  /Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/node_modules/react-native-google-signin/ios/../../../ios/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GoogleSignIn.h \
+  RNGoogleSignin/RNGSPromiseWrapper.h

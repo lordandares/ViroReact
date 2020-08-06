@@ -1,0 +1,98 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/Lottie.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "LOTAnimatedControl.h",
+          'external-contents': "/Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimatedControl.h"
+        },
+        {
+          'type': 'file',
+          'name': "LOTAnimatedSwitch.h",
+          'external-contents': "/Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimatedSwitch.h"
+        },
+        {
+          'type': 'file',
+          'name': "LOTAnimationCache.h",
+          'external-contents': "/Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimationCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "LOTAnimationTransitionController.h",
+          'external-contents': "/Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimationTransitionController.h"
+        },
+        {
+          'type': 'file',
+          'name': "LOTAnimationView.h",
+          'external-contents': "/Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimationView.h"
+        },
+        {
+          'type': 'file',
+          'name': "LOTAnimationView_Compat.h",
+          'external-contents': "/Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimationView_Compat.h"
+        },
+        {
+          'type': 'file',
+          'name': "LOTBlockCallback.h",
+          'external-contents': "/Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTBlockCallback.h"
+        },
+        {
+          'type': 'file',
+          'name': "LOTCacheProvider.h",
+          'external-contents': "/Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTCacheProvider.h"
+        },
+        {
+          'type': 'file',
+          'name': "LOTComposition.h",
+          'external-contents': "/Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTComposition.h"
+        },
+        {
+          'type': 'file',
+          'name': "LOTInterpolatorCallback.h",
+          'external-contents': "/Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTInterpolatorCallback.h"
+        },
+        {
+          'type': 'file',
+          'name': "LOTKeypath.h",
+          'external-contents': "/Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTKeypath.h"
+        },
+        {
+          'type': 'file',
+          'name': "LOTValueCallback.h",
+          'external-contents': "/Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTValueCallback.h"
+        },
+        {
+          'type': 'file',
+          'name': "LOTValueDelegate.h",
+          'external-contents': "/Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTValueDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "Lottie-Swift.h",
+          'external-contents': "/Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/Lottie.framework/Headers/Lottie-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Lottie.h",
+          'external-contents': "/Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/Lottie.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Products/Debug-DEV-iphonesimulator/Lottie.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/arivero/mediamonks/saudi-seasons-riyadh-app-and-site/ios/build/RiyadhApp-DEV/Build/Intermediates.noindex/Lottie.build/Debug-DEV-iphonesimulator/Lottie_iOS.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
